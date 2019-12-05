@@ -2,7 +2,7 @@
 This is the repo for reproducing the results in the paper Episodic Training for Domain Generalization.
 
 ##### Data
-Please download the data from https://drive.google.com/open?id=0B6x7gtvErXgfUU1WcGY5SzdwZVk and use the official train/val split. \
+Please download the data from https://drive.google.com/open?id=0B6x7gtvErXgfUU1WcGY5SzdwZVk and use the official train/val split.
 ##### ImageNet pretrained model
 We use the pytorch pretrained ResNet-18 model from https://download.pytorch.org/models/resnet18-5c106cde.pth
 
@@ -30,3 +30,8 @@ and
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | AGG  |77.6	|73.9	|94.4	|70.3	| 79.1|
 | Epi-FCR  | 82.1|	77.0|	93.9|	73.0|	81.5|
+
+## Run
+
+sh run_main_epi_fcr.sh #data_folder #model_path \
+sh run_main_agg.sh #data_folder #model_path
