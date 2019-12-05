@@ -42,7 +42,7 @@ each point is the average performance of 20 runs on VLCS
 
 lambda_1            |  lambda_2 |  lambda_3
 :-------------------------:|:-------------------------:|:-------------------------:
-![](images/prefvslossweightseq3.png)  |  ![](images/prefvslossweightseq4.png) | ![](images/prefvslossweightseq5.png)
+![](figures/prefvslossweightseq3.png)  |  ![](figures/prefvslossweightseq4.png) | ![](figures/prefvslossweightseq5.png)
 
 
 ### Reference
