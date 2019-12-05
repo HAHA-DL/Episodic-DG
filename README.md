@@ -36,6 +36,20 @@ and
 sh run_main_epi_fcr.sh #data_folder #model_path \
 sh run_main_agg.sh #data_folder #model_path
 
+### Reference
+If you consider using this code or its derivatives, please consider citing:
+
+```
+@InProceedings{Li_2019_ICCV,
+author = {Li, Da and Zhang, Jianshu and Yang, Yongxin and Liu, Cong and Song, Yi-Zhe and Hospedales, Timothy M.},
+title = {Episodic Training for Domain Generalization},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}
+```
+
 ##### Note
 
 When working with a different enviroment, you can get different results and need to tune the hyper parameters yourself.
+
