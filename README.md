@@ -6,7 +6,7 @@ We use the pytorch pretrained ResNet-18 model from https://download.pytorch.org/
 
 ## Enviroments
 
-verified on \
+verified on
 > GPU GeForce RTX 2080 Ti \
 > pytorch 1.0.0 \
 > Python 3.7.3 \
