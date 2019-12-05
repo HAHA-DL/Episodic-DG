@@ -11,3 +11,10 @@ verified on
 > pytorch 1.0.0 \
 > Python 3.7.3 \
 > Ubuntu 16.04.6
+
+and 
+
+> GPU TITAN X (Pascal) \
+> pytorch 0.4.1 \
+> Python 2.7 \
+> Scientific Linux 7.6
