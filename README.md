@@ -35,3 +35,7 @@ and
 
 sh run_main_epi_fcr.sh #data_folder #model_path \
 sh run_main_agg.sh #data_folder #model_path
+
+##### Note
+
+When working with a different enviroment, you can get different results and need to tune the hyper parameters yourself.
