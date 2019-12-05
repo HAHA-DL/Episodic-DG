@@ -36,7 +36,9 @@ and
 sh run_main_epi_fcr.sh #data_folder #model_path \
 sh run_main_agg.sh #data_folder #model_path
 
-### Sensitivity of loss weights (each point is the average performance of 20 runs on VLCS)
+### Sensitivity of loss weights
+
+each point is the average performance of 20 runs on VLCS
 
 lambda_1            |  lambda_2 |  lambda_3
 :-------------------------:|:-------------------------:|:-------------------------:
