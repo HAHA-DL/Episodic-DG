@@ -59,7 +59,8 @@ class BatchImageGenerator:
         f.close()
 
         def resize(x):
-            x = x[:, :, [2, 1, 0]]
+            x = x[:, :,
+                [2, 1, 0]]  # we use the pre-read hdf5 data file from the download page and need to change BRG to RGB
             return imresize(x, (224, 224, 3))
 
         # resize the image to 224 for the pretrained model
