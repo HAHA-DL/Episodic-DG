@@ -2,7 +2,7 @@
 This is the repo for reproducing the results in the paper Episodic Training for Domain Generalization.
 
 ##### Data
-Please download the data from https://drive.google.com/open?id=0B6x7gtvErXgfUU1WcGY5SzdwZVk and use the official train/val split.
+Please download the data from https://drive.google.com/drive/folders/0B6x7gtvErXgfUU1WcGY5SzdwZVk?resourcekey=0-2fvpQY_QSyJf2uIECzqPuQ&usp=sharing and use the official train/val split.
 ##### ImageNet pretrained model
 We use the pytorch pretrained ResNet-18 model from https://download.pytorch.org/models/resnet18-5c106cde.pth
 
